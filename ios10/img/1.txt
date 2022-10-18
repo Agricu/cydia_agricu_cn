@@ -1,0 +1,7 @@
+git init
+git add .
+touch README.md
+git add README.md
+git commit -m "第一次"
+git remote add origin https://github.com/Agricu/cydia_agricu_cn.git
+git push -u origin main
