@@ -1,2 +1,2 @@
-# jailbreakMe for iOS9～10
+# JailbreakMe for iOS9～10
 
